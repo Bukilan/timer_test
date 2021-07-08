@@ -1,0 +1,41 @@
+{
+  "name": "timer_test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.3",
+    "typescript": "^4.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "2.2.1"
+  }
+}

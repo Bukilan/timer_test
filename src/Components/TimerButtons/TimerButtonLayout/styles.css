@@ -1,0 +1,25 @@
+.TimerButtonsLayout_container {
+    width: 100%;
+}
+
+.TimerButtonsLayout_container, .TimerButtonsLayout_button_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.TimerButtonsLayout_button {
+    padding: 0 10px;
+}
+
+.TimerButtonsLayout_button:first-child {
+    padding: 0 10px 0 0;
+}
+
+.TimerButtonsLayout_button button {
+    cursor: pointer;
+}
+
+.TimerButtonsLayout_button_close {
+    padding: 0 0 0 10px;
+}

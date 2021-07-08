@@ -1,0 +1,9 @@
+.TimerLogsLayout_container {
+    height: 360px;
+    border: 2px solid black;
+    overflow-y: auto;
+}
+
+.TimerLogsLayout_item {
+    padding: 3px 10px;
+}
