@@ -1,14 +1,15 @@
 # TIMER TEST
 
-### ЗапускЖ
+### Запуск:
 
 ```
 $ npm install
 $ npm run start
 ```
 
-### Интерфейс: 
+### Требуемый интерфейс: 
 
+![image](https://user-images.githubusercontent.com/32181180/124911599-9da8d080-dff5-11eb-8900-0a67c7d00792.png)
 
 
 ### Логика:
